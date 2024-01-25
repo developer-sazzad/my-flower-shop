@@ -91,3 +91,26 @@
 .header-image {
     width: 400px;
 }
+
+
+
+/* Our Support / Work Proccess */
+.our-support {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+    padding: 50px 0px;
+}
+
+.support-image {
+    margin-bottom: 20px;
+
+}
+
+.support-description {
+    color: rgba(39, 39, 39, 0.80);
+    font-size: 18px;
+    font-weight: 500;
+}
