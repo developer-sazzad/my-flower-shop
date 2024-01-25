@@ -92,7 +92,48 @@
     width: 400px;
 }
 
+/* Flower Section Styles */
+.flower-conteiner {
+    display: flex;
+    justify-content: space-around;
+}
 
+.flower-items {
+    padding: 30px 25px 0 25px;
+
+}
+
+.flower-content {
+    padding: 100px 70px 0 70px;
+    border-radius: 50% 50% 0 0;
+    height: 300px;
+    align-items: center;
+}
+
+.flower-c-1 {
+    background-color: rgba(167, 33, 98, 0.15);
+}
+
+.flower-c-2 {
+    background-color: rgba(5, 151, 160, 0.15);
+}
+
+.flower-c-3 {
+    background-color: rgba(71, 125, 17, 0.15);
+}
+
+.flower-image {
+    width: 250px;
+    height: 300px;
+}
+
+.flower-description {
+    color: #272727;
+    font-size: 20px;
+    font-weight: 700;
+    text-decoration: underline;
+    margin-top: 20px;
+}
 
 /* Our Support / Work Proccess */
 .our-support {
@@ -102,6 +143,8 @@
     border-radius: 8px;
     background: rgba(39, 39, 39, 0.05);
     padding: 50px 0px;
+    margin-top: 100px;
+    margin-bottom: 70px;
 }
 
 .support-image {
