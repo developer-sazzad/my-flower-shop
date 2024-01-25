@@ -37,6 +37,26 @@
 
 }
 
+.section-box {
+    margin: 100px 0px 50px 0px;
+    text-align: center;
+    justify-content: center;
+}
+
+.section-title {
+    color: #272727;
+    font-size: 35px;
+    font-weight: 800;
+    margin-bottom: 25px;
+}
+
+.section-description {
+    color: #272727;
+    font-size: 18px;
+    font-weight: 400;
+    margin-bottom: 25px;
+
+}
 
 /* Header Section Style */
 .header {
