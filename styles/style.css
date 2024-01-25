@@ -203,7 +203,9 @@
     background-repeat: no-repeat;
     background-size: contain;
     text-align: center;
-    padding: 130px 250px;
+    padding: 100px 250px;
+    margin-bottom: 100px;
+    margin-top: 30px;
 
 }
 
@@ -216,6 +218,7 @@
     border-radius: 5px;
     background-color: #fff;
     font-size: 18px;
+    align-items: center;
 }
 
 
@@ -226,4 +229,35 @@
     font-size: 20px;
     font-weight: 700;
     border-radius: 5px;
+}
+
+/* Footer Section Styles */
+.footer {
+    background-color: #111010;
+    padding: 130px;
+    text-align: center;
+}
+
+.footer>.footer-title {
+    color: #E55473;
+    font-size: 48px;
+    font-weight: 800;
+    margin-bottom: 25px;
+}
+
+.white-text {
+    color: #ffffff;
+}
+
+.footer-description {
+    color: #fff;
+    font-size: 20px;
+    font-weight: 400;
+    margin-bottom: 25px;
+}
+
+.copyright {
+    color: rgba(255, 255, 255, 0.40);
+    font-size: 16px;
+    font-weight: 400;
 }
